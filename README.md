@@ -20,6 +20,7 @@ $ brew upgrade arturoherrero
 
 ## Available Formulae
 
+- [bart][4]
 - [gvar][3]
 
 
@@ -32,3 +33,4 @@ This was made by Arturo Herrero under the MIT License. Find me on Twitter
 [1]: https://twitter.com/ArturoHerrero
 [2]: http://brew.sh/
 [3]: https://github.com/arturoherrero/gvar
+[4]: https://github.com/arturoherrero/bart
